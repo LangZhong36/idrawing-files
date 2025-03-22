@@ -67,15 +67,6 @@
         <mxCell id="-adZ-wvXrGGvC5874GAj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAYKwWkqaB5lXoWH7hrf-52" target="HAYKwWkqaB5lXoWH7hrf-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-adZ-wvXrGGvC5874GAj-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAYKwWkqaB5lXoWH7hrf-52" target="HAYKwWkqaB5lXoWH7hrf-56">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="510" y="513" />
-              <mxPoint x="290" y="513" />
-              <mxPoint x="290" y="585" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HAYKwWkqaB5lXoWH7hrf-52" value="YOLOv11算法" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="410" width="80" height="60" as="geometry" />
         </mxCell>
