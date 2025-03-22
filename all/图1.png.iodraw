@@ -77,8 +77,13 @@
         <mxCell id="-adZ-wvXrGGvC5874GAj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAYKwWkqaB5lXoWH7hrf-52" target="HAYKwWkqaB5lXoWH7hrf-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-adZ-wvXrGGvC5874GAj-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAYKwWkqaB5lXoWH7hrf-52" target="-adZ-wvXrGGvC5874GAj-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-adZ-wvXrGGvC5874GAj-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAYKwWkqaB5lXoWH7hrf-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HAYKwWkqaB5lXoWH7hrf-52" value="YOLOv11算法" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="410" width="80" height="60" as="geometry" />
@@ -109,9 +114,6 @@
         </mxCell>
         <mxCell id="-adZ-wvXrGGvC5874GAj-1" value="硬件端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="30" y="270" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-adZ-wvXrGGvC5874GAj-11" value="" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
