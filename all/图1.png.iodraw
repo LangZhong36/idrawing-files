@@ -40,9 +40,6 @@
         <mxCell id="HAYKwWkqaB5lXoWH7hrf-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HAYKwWkqaB5lXoWH7hrf-40" target="HAYKwWkqaB5lXoWH7hrf-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-adZ-wvXrGGvC5874GAj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAYKwWkqaB5lXoWH7hrf-40" target="HAYKwWkqaB5lXoWH7hrf-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="HAYKwWkqaB5lXoWH7hrf-40" value="安全检测" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="410" width="80" height="60" as="geometry" />
         </mxCell>
