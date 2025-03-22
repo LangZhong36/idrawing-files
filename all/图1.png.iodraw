@@ -94,7 +94,7 @@
         <mxCell id="-adZ-wvXrGGvC5874GAj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-adZ-wvXrGGvC5874GAj-1" target="HAYKwWkqaB5lXoWH7hrf-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-adZ-wvXrGGvC5874GAj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-adZ-wvXrGGvC5874GAj-1" value="硬件端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="270" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
