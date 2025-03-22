@@ -22,10 +22,8 @@
         <mxCell id="HAYKwWkqaB5lXoWH7hrf-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HAYKwWkqaB5lXoWH7hrf-34" target="HAYKwWkqaB5lXoWH7hrf-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HAYKwWkqaB5lXoWH7hrf-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="HAYKwWkqaB5lXoWH7hrf-44" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="340" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="HAYKwWkqaB5lXoWH7hrf-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HAYKwWkqaB5lXoWH7hrf-34" target="HAYKwWkqaB5lXoWH7hrf-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HAYKwWkqaB5lXoWH7hrf-34" value="前端UI设计模块" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="230" y="270" width="120" height="60" as="geometry" />
@@ -65,9 +63,6 @@
         </mxCell>
         <mxCell id="HAYKwWkqaB5lXoWH7hrf-50" value="是否安全" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="555" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-adZ-wvXrGGvC5874GAj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HAYKwWkqaB5lXoWH7hrf-52" target="HAYKwWkqaB5lXoWH7hrf-56">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HAYKwWkqaB5lXoWH7hrf-52" value="YOLOv11算法" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="410" width="80" height="60" as="geometry" />
